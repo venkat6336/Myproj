@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>WKND Sites Project - UI content</comment>
+<entry key="createdBy">Reliance</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">aem-guides-wknd.ui.content</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="created">2019-02-24T22:21:26.751+0530</entry>
+<entry key="groupId">com.adobe.aem.guides</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.adobe.aem.guides</entry>
+<entry key="description">UI content package for WKND Sites Project</entry>
+<entry key="artifactId">aem-guides-wknd.ui.content</entry>
+</properties>
